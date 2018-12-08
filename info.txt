@@ -1,7 +1,7 @@
 Name: Top 10 to WP-Recall;
-Version: 1.0;
-Support Core: 15.5.7;
+Version: 1.1;
+Support Core: 16.17.0;
 Description: Интеграция плагина WP-Recall с плагином "Top 10 - Popular posts plugin for WordPress";
 Author: Владимир Дружаев (Otshelnik-Fm);
-Author URI: http://across-ocean.otshelnik-fm.ru/;
+Author URI: https://otshelnik-fm.ru/?utm_source=free-addons&utm_medium=addon-manager&utm_campaign=top-10-to-wp-recall&utm_content=not-domain&utm_term=home-page;
 Add-on URI: https://codeseller.ru/products/top-10-to-wp-recall/;
